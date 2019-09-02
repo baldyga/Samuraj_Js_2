@@ -1,0 +1,21 @@
+button {
+    text-transform: uppercase;
+    border: solid salmon 2px;
+    color: saddlebrown;
+    display: block;
+    padding: 10px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: auto;
+    margin-left: auto;
+}
+ul li {
+    font-family: serif;
+    font-size: 20px;
+    font-size: 30px;
+}
+ul li.big {
+    font-size: 40px;
+    color: saddlebrown;
+    
+}
